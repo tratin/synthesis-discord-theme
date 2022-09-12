@@ -22,9 +22,9 @@ code,
   --rs-small-spacing: 0px; /* Gap between avatar and status for members list/dms | MUST end in px */
   --rs-medium-spacing: 0px; /* Gap between avatar and status for User popout | MUST end in px */
   --rs-large-spacing: 0px; /* Gap between avatar and status for User profiles | MUST end in px */
-  --rs-small-width: 3px; /* Thickness of status border for members list/dms | MUST end in px */
-  --rs-medium-width: 7px; /* Thickness of status border for User popout | MUST end in px */
-  --rs-large-width: 16px; /* Thickness of status border for User profile | MUST end in px */
+  --rs-small-width: 0px; /* Thickness of status border for members list/dms | MUST end in px */
+  --rs-medium-width: 0px; /* Thickness of status border for User popout | MUST end in px */
+  --rs-large-width: 0px; /* Thickness of status border for User profile | MUST end in px */
   --rs-avatar-shape: 50%; /* 50% for round - 0% for square */
   --rs-online-color: #34ac8c; /* Colour for online status */
   --rs-idle-color: rgb(255, 165, 0); /* Colour for idle status */
